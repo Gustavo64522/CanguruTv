@@ -1,7 +1,7 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Mapas Pro League",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
@@ -10,32 +10,32 @@
       },
       "videos": [
         {
-          "titulo": "Treino Tático - Casa de Campo",
+          "titulo": "Tudo sobre Rainbow Six Siege",
+          "url": "https://www.youtube.com/watch?v=uxZHtRRv5yM"
+        },
+        {
+          "titulo": "Tático Casa de Campo",
           "url": "https://www.youtube.com/watch?v=s87EhMV-wTg"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Tática Consulado",
+          "url": "https://www.youtube.com/watch?v=HUvybpeqI34&t=3s"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "call Consulado",
+          "url": "https://www.youtube.com/watch?v=WcPHj6HagZE"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Tática Oregon",
+          "url": "https://www.youtube.com/watch?v=TnmK2p9l_Y4"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Call Oregon",
+          "url": "https://www.youtube.com/watch?v=3Y2mg2BuqIk"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Tática Kafé",
+          "url": "https://www.youtube.com/watch?v=o5zWqILjOAA"
         },
         {
           "titulo": "Base para aprender os frameworks",
@@ -53,7 +53,7 @@
       "videos": [
         {
           "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "url": "https://www.twitch.tv/bielss02"
         },
         {
           "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
